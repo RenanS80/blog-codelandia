@@ -6,9 +6,7 @@ https://renans80.github.io/blog-codelandia/  <br>
 
 Blog Codelândia é o primeiro de uma série de desafios propostos pelo @Iuricode.
 Este blog seguiu as especificações da seguinte prototipação: <br>
-<a src="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1" target="_blank">
-  https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1
- </a>
+[Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1)
 
 ---
 
